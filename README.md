@@ -14,5 +14,6 @@ Using Google Colab Notebook, we can convert it to .py extension and use the file
 ## About the datasets:
 1. train.csv : This file contains chemical records which will be used for training the model
 2. test.csv: This file contains chemical records which will be used for predicting the chemicals as toxic ("1") or non-toxic ("0")
-3. feamat.csv: This file contains the attribute names for different columns in train and test files. 
+3. feamat.csv: This file contains features for each chemical in train and test files
+4. feature_id_name_mappings: This file contains the attribute names for different columns in train and test files
 
